@@ -5,3 +5,4 @@ window.dataSourceMap["app.auth"] = { customId: "auth", serviceUrl: "api/cronapi/
 window.dataSourceMap["app.roles"] = { customId: "roles", serviceUrl: "api/cronapi/query/roles/", serviceUrlODATA: "/api/cronapi/odata/v2/app/roles" };
 window.dataSourceMap["app.Device"] = { customId: "app.entity.Device", serviceUrl: "api/cronapi/crud/app.entity.Device", serviceUrlODATA: "/api/cronapi/odata/v2/app/Device" };
 window.dataSourceMap["app.Role"] = { customId: "app.entity.Role", serviceUrl: "api/cronapi/crud/app.entity.Role", serviceUrlODATA: "/api/cronapi/odata/v2/app/Role" };
+window.dataSourceMap["app.buu"] = { customId: "app.entity.buu", serviceUrl: "api/cronapi/crud/app.entity.buu", serviceUrlODATA: "/api/cronapi/odata/v2/app/buu" };
